@@ -2,5 +2,6 @@
 
 This is  Load Api assignment.
 
-This document contains the output snapshot for reference.
-[ASSIGNMENT.-.Load.API.pdf](https://github.com/RajputDeepti/Liveasy_Logistics_Assignment/files/13060795/ASSIGNMENT.-.Load.API.pdf)
+Output snapshots:
+
+![ASSIGNMENT - Load API_page-0001](https://github.com/RajputDeepti/Liveasy_Logistics_Assignment/assets/110597883/e3a305eb-b9ae-49bd-82f0-d5a8598a4470)
